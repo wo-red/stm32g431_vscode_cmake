@@ -1,0 +1,20 @@
+# ninja log v6
+18	560	7634792515595614	CMakeFiles/controller_PMSM.dir/Core/Src/sysmem.c.obj	b68e88ec81c7e11e
+13	594	7634792515545615	CMakeFiles/controller_PMSM.dir/Core/Src/syscalls.c.obj	eb9e2c5776252d26
+3	682	7634792515445819	CMakeFiles/controller_PMSM.dir/Core/Src/stm32g4xx_hal_msp.c.obj	fe3fa6d3e1152a5c
+9	723	7634792515505646	CMakeFiles/controller_PMSM.dir/Core/Src/stm32g4xx_it.c.obj	6d73a6dbda4a9727
+24	753	7634792515655628	CMakeFiles/controller_PMSM.dir/Core/Src/system_stm32g4xx.c.obj	c542623136a638d0
+43	775	7634792515855644	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj	4b18dbee6d174b41
+32	784	7634792515735644	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj	23ef34af87daa992
+77	801	7634792516179548	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj	3895686222b02246
+51	819	7634792515925628	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj	e328f7ec4d2170e0
+106	821	7634792516473614	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj	3b02fc2f0ec6141f
+94	825	7634792516349542	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj	8b262d29aafb6879
+59	830	7634792516015630	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj	efd04fa3d92a5e6a
+84	838	7634792516259544	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj	a80d739434d7e719
+67	843	7634792516085620	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj	2dcb9a8701d53c32
+128	849	7634792516694031	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj	45a5e289d005be75
+100	857	7634792516419536	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj	e039f315a16ff715
+114	865	7634792516554042	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj	ef4db001f75e9e57
+120	896	7634792516624028	CMakeFiles/controller_PMSM.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj	deb67f3cc967b820
+896	2076	7634792524374164	controller_PMSM.elf	39e9b766f55d2ce6
